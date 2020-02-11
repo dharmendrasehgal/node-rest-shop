@@ -1,0 +1,23 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "RESTFull API with Node JS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharmendrasehgal/node-rest-shop.git"
+  },
+  "author": "Dharmendra Sehgal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dharmendrasehgal/node-rest-shop/issues"
+  },
+  "homepage": "https://github.com/dharmendrasehgal/node-rest-shop#readme"
+}
